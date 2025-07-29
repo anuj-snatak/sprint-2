@@ -1,9 +1,6 @@
 
 # Monorepo vs Microrepo Strategy – Documentation
 
-This document is intended to provide a **detailed comparison and understanding of Monorepo and Microrepo (Polyrepo)** strategies in software development. It aims to guide organizations, developers, and DevOps teams in selecting the most suitable repository structure for their workflows, scalability needs, and CI/CD pipelines.
-
----
 ## Author Details
 
 | Author      | Created on | Version   | Last updated by | Internal Reviewer |
@@ -12,6 +9,25 @@ This document is intended to provide a **detailed comparison and understanding o
 
 ---
 
+## Table of Contents
+
+1. [Purpose](#-purpose)
+2. [Introduction](#-introduction)
+
+   * [What is a Monorepo?](#-what-is-a-monorepo)
+   * [What is a Microrepo (Polyrepo)?](#-what-is-a-microrepo-polyrepo)
+3. [Comparison Table](#-comparison-table-monorepo-vs-microrepo)
+4. [Conclusion](#-conclusion)
+5. [Contact Information](#-contact-information)
+6. [References](#-references)
+
+---
+
+## Purpose
+
+This document is intended to provide a **detailed comparison and understanding of Monorepo and Microrepo (Polyrepo)** strategies in software development. It aims to guide organizations, developers, and DevOps teams in selecting the most suitable repository structure for their workflows, scalability needs, and CI/CD pipelines.
+
+---
 
 ## Introduction
 
@@ -87,11 +103,12 @@ Choosing between Monorepo and Microrepo depends on your **team size, project arc
 
 ---
 
-##  Contact Information
+## Contact Information
 
 | Name      | Role              | Email                                                       |
 | --------- | ----------------- | ----------------------------------------------------------- |
 | Anuj Jain | DevOps Engineer   | [anuj.jain@mygurukulam.co](mailto:anuj.jain@mygurukulam.co) |
+| Prashnat  | Internal Reviewer | [prashnat@mygurukulam.co](mailto:prashnat@mygurukulam.co)   |
 
 ---
 
@@ -105,4 +122,5 @@ Choosing between Monorepo and Microrepo depends on your **team size, project arc
 | Nx.dev – Toolkit for Monorepo Management        | [Link](https://nx.dev/)                                                                                                                    |
 | GitHub Docs – Monorepo Setup Tips               | [Link](https://docs.github.com/en/enterprise-cloud@latest/repositories/working-with-files/managing-large-repositories/monorepo-strategies) |
 | Atlassian Guide – Choosing Monorepo or Polyrepo | [Link](https://www.atlassian.com/git/tutorials/monorepos)                                                                                  |
+
 
