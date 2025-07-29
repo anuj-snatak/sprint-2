@@ -4,6 +4,14 @@
 This document is intended to provide a **detailed comparison and understanding of Monorepo and Microrepo (Polyrepo)** strategies in software development. It aims to guide organizations, developers, and DevOps teams in selecting the most suitable repository structure for their workflows, scalability needs, and CI/CD pipelines.
 
 ---
+## Author Details
+
+| Author      | Created on | Version   | Last updated by | Internal Reviewer |
+|-------------|------------|-----------|------------------|--------------------|
+| Anuj Jain   | 17-07-25   | version 1 | N/A              | Prashnat           |
+
+---
+
 
 ## Introduction
 
