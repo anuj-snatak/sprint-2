@@ -107,7 +107,6 @@ Choosing between Monorepo and Microrepo depends on your **team size, project arc
 | Name      | Role              | Email                                                       |
 | --------- | ----------------- | ----------------------------------------------------------- |
 | Anuj Jain | DevOps Engineer   | [anuj.jain@mygurukulam.co](mailto:anuj.jain@mygurukulam.co) |
-| Prashnat  | Internal Reviewer | [prashnat@mygurukulam.co](mailto:prashnat@mygurukulam.co)   |
 
 ---
 
