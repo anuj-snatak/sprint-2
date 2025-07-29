@@ -1,10 +1,6 @@
 
 # Monorepo vs Microrepo Strategy – Documentation
 
----
-
-## Purpose
-
 This document is intended to provide a **detailed comparison and understanding of Monorepo and Microrepo (Polyrepo)** strategies in software development. It aims to guide organizations, developers, and DevOps teams in selecting the most suitable repository structure for their workflows, scalability needs, and CI/CD pipelines.
 
 ---
