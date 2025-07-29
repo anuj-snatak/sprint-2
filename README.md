@@ -13,7 +13,6 @@
 
 1. [Purpose](#-purpose)
 2. [Introduction](#-introduction)
-
    * [What is a Monorepo?](#-what-is-a-monorepo)
    * [What is a Microrepo (Polyrepo)?](#-what-is-a-microrepo-polyrepo)
 3. [Comparison Table](#-comparison-table-monorepo-vs-microrepo)
