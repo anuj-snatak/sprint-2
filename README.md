@@ -98,4 +98,3 @@ Choosing between Monorepo and Microrepo depends on your **team size, project arc
 | GitHub Docs – Monorepo Setup Tips               | [Link](https://docs.github.com/en/enterprise-cloud@latest/repositories/working-with-files/managing-large-repositories/monorepo-strategies) |
 | Atlassian Guide – Choosing Monorepo or Polyrepo | [Link](https://www.atlassian.com/git/tutorials/monorepos)                                                                                  |
 
----
